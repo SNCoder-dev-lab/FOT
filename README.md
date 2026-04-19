@@ -1,0 +1,2 @@
+# FOT
+New futuristic ai
